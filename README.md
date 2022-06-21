@@ -84,10 +84,6 @@ for (char, frequency) in freq:
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 
